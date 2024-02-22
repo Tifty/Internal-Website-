@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<center> 
+<style>
+<h1> Welcome to internal </h1>
+<p> This is a very boring website that lets yout choose what to do while in internal </p>
+<a href="https://formtimeideas.com/"
+<button> Options </button>
+</a>
+</center> 
+  body {
+background-color:#00b983
+  }
+</style>
